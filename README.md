@@ -18,6 +18,6 @@
 + elimino todas las filas vacias
 + elimino las filas duplicadas
 + unificar criterios columna por columna
-+ + veo los valores unicos
-+ +reemplazo y unifico    
+ + veo los valores unicos
+ + reemplazo y unifico    
 + aplico funcion para eliminar filas que tengan menos de un quinto de no nulls
